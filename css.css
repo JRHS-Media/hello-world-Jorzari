@@ -7,3 +7,25 @@ font-family: sans-serif;
     flex-wrap: wrap;
     justify-content: center;
 }
+.header {
+    width: 100%;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+    align-self: flex-end;
+}
+.nav{
+    width: 500px;
+    height: 100px;
+    align-self: flex-end;
+}
+.content{
+    width:80vw;
+    height:100vw;
+    background-color: cadetblue;
+}
+.footer {
+    width: 100vw;
+    height: 100px;
+}
